@@ -5,8 +5,11 @@ Este es el colab con el resultado del proyecto final "Tiempo de viaje en las cic
 ## Enlace directo al colab del proyecto
 https://colab.research.google.com/drive/1faWTWNzBKnealJb9I7t-ggCVGBnCym-u?usp=sharing
 
+## Enlace a las bases de datos
+https://data.mendeley.com/datasets/w22y5zk9kh/1
+
 ## ¿Cómo ejecutar el notebook?
-Inicialmente es necesario descargar las bases de datos para que el programa funcione correctamente. Las bases de datos corresponden a los dos archivos .xlsx que se pueden encontrar en la carpeta "bases de datos". Con estos archivos, se puede ejecutar este proyecto de forma local o en la nube con la herramienta Google Colab.
+Inicialmente es necesario descargar las bases de datos para que el programa funcione correctamente. Las bases de datos corresponden a los dos archivos .xlsx que se pueden encontrar en la carpeta "bases de datos" o en el enlace anterior. Con estos archivos, se puede ejecutar este proyecto de forma local o en la nube con la herramienta Google Colab.
 
 ### Ejecución del notebook en Google Colab
 Una vez se tengan los archivos del notebook y las bases de datos en drive, es necesario editar dentro del notebook el directorio de drive donde se encuentran (cambiar la ruta /content/drive/MyDrive/2023-1/M2 por la carpeta donde se encuentren sus archivos)
